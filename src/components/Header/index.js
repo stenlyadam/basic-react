@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 18,
-    color: '#00000',
+    color: 'black',
     textAlign: 'center',
     fontWeight: '800',
   },
@@ -28,5 +28,6 @@ const styles = StyleSheet.create({
     fontSize: 18,
     color: 'white',
     textAlign: 'center',
+    fontWeight: '600',
   },
 });
